@@ -2,7 +2,7 @@
 
 # 牛牛
 哞~<br>
-我們有一位Python+HTML大佬[AWeirdScratcher](https://github.com/AWeirdScratcher),我們的所有Python作品和網頁都是他設計的。
+我們有一位Python+HTML大佬[AWeirdScratcher](https://github.com/AWeirdScratcher),我們的**所有**Python作品和網頁都是他設計的。
 
 
 🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐
@@ -14,4 +14,4 @@
 🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐🛐
 
 
-而至於[CharlieMoomoo](https://github.com/charlie-moomoo)的話...一個超強的Node.js開發者。 :D
+而至於[CharlieMoomoo](https://github.com/charlie-moomoo)的話...一個***糟糕***的Node.js開發者。 :D
