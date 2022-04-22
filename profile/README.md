@@ -31,12 +31,25 @@
 
 他時常笑稱自己是為糟糕的開發者，事實上卻受到許多人的敬仰。他時常學習不同的事物，面對不同的挑戰，他絕不會退縮，令人敬佩。
 
+
+![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=charlie-moomoo)
+
 <sub><b>Sussy 口頭禪</b> ：lmaooooo, hih, sus</sub>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
+### OL99
+
+- Minecraft 建設
+- 牛牛開發者
+- Javascript
+
+**OL99** 是第二位牛牛團隊的成員，善於遊玩 Minecraft。
+
+
+
+![ol-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=ol-star&show_icons=true&custom_title=OL-Star)
+
+<sub><b>主要語言： 繁體中文、英文</b></sub>
 
 
 我們有一位Python+HTML大佬[AWeirdDev](https://github.com/AWeirdScratcher),我們的**所有**Python作品和網頁都是他設計的。
