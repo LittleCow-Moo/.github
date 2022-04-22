@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=1024" align="right"/>
+<img src="https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=1024" align="right" width="120"/>
 
 # 牛牛
 哞~我是牛牛！我最喜歡吃 Javascript！
@@ -47,20 +47,25 @@
 
 **OL99** 是第二位牛牛團隊的成員，善於遊玩 Minecraft。
 
-
-
 ![ol-star's GitHub stats](https://github-readme-stats.vercel.app/api?username=ol-star&show_icons=true&custom_title=OL-Star)
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
+<img src="https://github.com/charlie-moomoo.png" align="right" width="120"/>
 
-我們有一位Python+HTML大佬[AWeirdDev](https://github.com/AWeirdScratcher),我們的**所有**Python作品和網頁都是他設計的。
+### [AWeirdDev](https://github.com/AWeirdScratcher)
+
+- Python 開發者
+- 正在學習 Javascript
+- 牛牛開發者
+- [網頁開發](https://cow.c-moo.cf/?test=true)
+
+**AWeirdDev** 是機器牛的開發人員，且時常協助關於牛牛的各項事務。
+
+> CharlieMoomoo 說： DALAO DETECTED
 
 
+![aweirddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aweirdscratcher&show_icons=true&custom_title=AWeirdDev&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=0995ec&border_radius=24)
 
-而且我們有一位Minecraft大佬[OL99](https://scratch.mit.edu/users/OL-Star),我們的Minecraft伺服器裡的建設都是他蓋的。
-
-
-
-
-而至於[CharlieMoomoo](https://github.com/charlie-moomoo)的話...一個***糟糕***的Node.js開發者。 :D
+<sub><b>Sussy 口頭禪</b> ：click it, UwU, sus</sub>
+<sub><b>主要語言： 繁體中文、英文、AWeirdLang</b></sub>
