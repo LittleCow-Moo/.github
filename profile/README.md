@@ -37,6 +37,8 @@
 <sub><b>Sussy 口頭禪</b> ：lmaooooo, hih, sus</sub>
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
+<img src="https://github.com/ol-star.png" align="right" width="120"/>
+
 ### OL99
 
 - Minecraft 建設
