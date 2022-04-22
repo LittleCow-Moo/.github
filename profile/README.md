@@ -51,7 +51,7 @@
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
-<img src="https://github.com/charlie-moomoo.png" align="right" width="120"/>
+<img src="https://github.com/aweirdscratcher.png" align="right" width="120"/>
 
 ### [AWeirdDev](https://github.com/AWeirdScratcher)
 
