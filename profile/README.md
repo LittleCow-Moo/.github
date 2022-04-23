@@ -34,6 +34,7 @@
 ![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=charlie-moomoo)
 
 <sub><b>Sussy 口頭禪</b> ：lmaooooo, hih, sus</sub>
+
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
 <img src="https://github.com/ol-star.png" align="right" width="120"/>
