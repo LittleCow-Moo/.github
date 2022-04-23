@@ -37,7 +37,7 @@
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
-<img src="https://github.com/ol-star.png" align="right" width="120"/>
+<img src="https://github.com/OL99-ols.png" align="right" width="120"/>
 
 ### OL99
 
