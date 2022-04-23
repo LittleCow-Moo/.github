@@ -20,7 +20,7 @@
 
 <img src="https://github.com/charlie-moomoo.png" align="right" width="120"/>
 
-### CharlieMoomoo
+### [CharlieMoomoo](https://github.com/charlie-moomoo)
 
 - **Leader**
 - Javascript 開發者
@@ -39,7 +39,7 @@
 
 <img src="https://github.com/OL99-ols.png" align="right" width="120"/>
 
-### OL99
+### [OL99](https://github.com/OL99-ols)
 
 - Minecraft 建設
 - 牛牛開發者
