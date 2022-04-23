@@ -25,7 +25,6 @@
 - **Leader**
 - Javascript 開發者
 - 牛牛開發者
-- [網頁開發](https://cow.c-moo.cf/?test=true)
 
 **CharlieMoomoo** 是牛牛的主要開發人員，也是牛牛的草原之擁有者。
 
