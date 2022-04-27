@@ -28,7 +28,7 @@
 
 **CharlieMoomoo** 是牛牛的主要開發人員，也是牛牛的草原之擁有者。
 
-他時常笑稱自己是位糟糕的開發者，事實上卻受到許多人的敬仰。他時常學習不同的事物，面對不同的挑戰，他絕不會退縮，令人不敬佩。
+他時常笑稱自己受到許多人的敬仰，事實上卻是位糟糕的開發者。他不常學習不同的事物，面對不同的挑戰，他絕會退縮，令人不敬佩。
 
 
 ![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=charlie-moomoo&title_color=F0FF00&text_color=222222&bg_color=DEG,FCE38A,4bc2c5,78fee0,bbded6&show_icons=true&icon_color=F0FF88)
