@@ -33,7 +33,7 @@
 
 ![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=charlie-moomoo&title_color=F0FF00&text_color=222222&bg_color=DEG,FCE38A,4bc2c5,78fee0,bbded6&show_icons=true&icon_color=F0FF88)
 
-<sub><b>Sussy 口頭禪</b> ：lmaooooo, hih, sus</sub>
+<sub><b>口頭禪</b> ：lmaooooo, hih, sus</sub>
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
@@ -67,6 +67,6 @@
 
 ![aweirddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aweirdscratcher&show_icons=true&custom_title=AWeirdDev&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=0995ec&border_radius=24)
 
-<sub><b>Sussy 口頭禪</b> ：click it, UwU, sus</sub>
+<sub><b>口頭禪</b> ：click it, UwU, sus</sub>
 
 <sub><b>主要語言： 繁體中文、英文、AWeirdLang</b></sub>
