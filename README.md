@@ -4,7 +4,7 @@
 哞~我是牛牛!我最喜歡吃 Javascript!
 
 ## 關於我們
-我們有台 <a href="https://dsc.im/cgl">伺服器</a>,提供你談天說地!
+我們有台 <a href="https://dsc.im/cgl">伺服器</a> ,提供你談天說地!
 
 <b>依舊沒被滿足?</b>
 
