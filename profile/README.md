@@ -58,7 +58,7 @@
 - Python 開發者
 - 正在學習 Javascript
 - 牛牛開發者
-- [網頁開發](https://cow.c-moo.cf/?test=true)
+- [網頁開發](https://littlecow.gq/?test=true)
 
 **AWeirdDev** 是機器牛的開發人員,且時常協助關於牛牛的各項事務。
 
