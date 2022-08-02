@@ -70,3 +70,14 @@
 <sub><b>口頭禪</b> :click it, UwU, sus</sub>
 
 <sub><b>主要語言: 繁體中文、英文、AWeirdLang</b></sub>
+
+<img src="https://github.com/MagicTeaMC.png" align="right" width="120"/>
+
+### [Maoyue](https://github.com/MagicTeaMC)
+
+**Maoyue** 是個大佬，並且負責網域管理等事務。
+
+
+![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&custom_title=Maoyue)
+
+<sub><b>主要語言: 繁體中文</b></sub>
