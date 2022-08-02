@@ -31,7 +31,7 @@
 他時常笑稱自己受到許多人的敬仰,事實上卻是位糟糕的開發者。他不常學習不同的事物,面對不同的挑戰,他絕會退縮,令人不敬佩。
 
 
-![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=charlie-moomoo&title_color=F0FF00&text_color=222222&bg_color=DEG,FCE38A,4bc2c5,78fee0,bbded6&show_icons=true&icon_color=F0FF88)
+![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=CharlieMoomoo&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=FCE38A&title_color=FCE38A)
 
 <sub><b>口頭禪</b> :lmaooooo, hih, sus</sub>
 
@@ -47,7 +47,7 @@
 
 **OL99** 是第二位牛牛團隊的成員,善於遊玩 Minecraft。
 
-![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=OL99-ols&show_icons=true&custom_title=OL-Star)
+![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=OL99-ols&show_icons=true&custom_title=OL-Star&bg_color=181818&text_color=ffffff)
 
 <sub><b>主要語言: 繁體中文、英文</b></sub>
 
@@ -78,6 +78,6 @@
 **Maoyue** 是個大佬，並且負責網域管理等事務。
 
 
-![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&custom_title=Maoyue)
+![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&custom_title=Maoyue&bg_color=181818&text_color=ffffff)
 
 <sub><b>主要語言: 繁體中文</b></sub>
