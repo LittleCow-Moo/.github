@@ -67,7 +67,7 @@
 
 ![aweirddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=aweirdscratcher&show_icons=true&custom_title=AWeirdDev&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=0995ec&border_radius=24)
 
-<sub><b>口頭禪</b> :click it, UwU, sus</sub>
+<sub><b>口頭禪</b> :click it, UwU, sus, 查理王</sub>
 
 <sub><b>主要語言: 繁體中文、英文、AWeirdLang</b></sub>
 
