@@ -22,22 +22,14 @@
 
 ### [CharlieMoomoo](https://github.com/charlie-moomoo)
 
-- **Leader**
-- Javascript 開發者
-- 牛牛開發者
-
 **CharlieMoomoo** 是牛牛的主要開發人員,也是牛牛的草原之擁有者。
-
-他時常笑稱自己受到許多人的敬仰,事實上卻是位糟糕的開發者。他不常學習不同的事物,面對不同的挑戰,他絕會退縮,令人不敬佩。
-
+> 廣告:趕快去玩cowgl.gq
 
 ![charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=CharlieMoomoo&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=FCE38A&title_color=FCE38A)
 
-<sub><b>口頭禪</b> :lmaooooo, hih, sus</sub>
-
 <sub><b>主要語言: 繁體中文、英文</b></sub>
 
-<img src="https://github.com/OL99-ols.png" align="right" width="120"/>
+<!--img src="https://github.com/OL99-ols.png" align="right" width="120"/>
 
 ### [OL99](https://github.com/OL99-ols)
 
@@ -69,7 +61,7 @@
 
 <sub><b>口頭禪</b> :click it, UwU, sus, 查理王</sub>
 
-<sub><b>主要語言: 繁體中文、英文、AWeirdLang</b></sub>
+<sub><b>主要語言: 繁體中文、英文、AWeirdLang</b></sub-->
 
 <img src="https://github.com/MagicTeaMC.png" align="right" width="120"/>
 
