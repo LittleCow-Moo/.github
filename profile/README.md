@@ -25,7 +25,7 @@
 **CharlieMoomoo**是牛牛的主要開發人員，也是牛牛的草原之擁有者。
 > 廣告:趕快去玩cowgl.gq
 
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&custom_title=CharlieMoomoo&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=FCE38A&title_color=FCE38A)
+![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&title=Charlie&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=FCE38A&title_color=FCE38A)
 
 <sub><b>主要語言: 繁體中文、英文</b></sub>
 
