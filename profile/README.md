@@ -39,7 +39,7 @@
 
 **OL99** 是第二位牛牛團隊的成員，善於遊玩 Minecraft。
 
-![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=OL99-ols&show_icons=true&custom_title=OL-Star&bg_color=181818&text_color=ffffff)
+![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=OL99-ols&show_icons=true&custom_title=OL-Star&bg_color=181818&text_color=ffffff&hide_border=true)
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
