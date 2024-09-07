@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=1024" align="right" width="120"/>
+<img src="https://github.com/LittleCow-Moo.png" align="right" width="120"/>
 
 # 牛牛
 哞～我是牛牛！我最喜歡吃 JavaScript！
