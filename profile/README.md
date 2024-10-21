@@ -35,11 +35,11 @@
 
 - Minecraft 建設
 - 牛牛開發者
-- Javascript
+- JavaScript
 
 **JustApple** 是第二位牛牛團隊的成員，善於遊玩 Minecraft。
 
-![JustappleJust's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustappleJust&show_icons=true&custom_title=OL-Star&bg_color=181818&text_color=ffffff&hide_border=true)
+![JustappleJust's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustappleJust&show_icons=true&title=JustApple&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=ff002c&title_color=ff002c)
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
