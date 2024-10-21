@@ -31,7 +31,7 @@
 
 <img src="https://github.com/JustappleJust.png" align="right" width="120"/>
 
-### [JustApp;e](https://github.com/JustappleJust)
+### [JustApple](https://github.com/JustappleJust)
 
 - Minecraft 建設
 - 牛牛開發者
