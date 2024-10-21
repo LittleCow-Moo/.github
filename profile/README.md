@@ -4,7 +4,7 @@
 哞～我是牛牛！我最喜歡吃 JavaScript！
 
 ## 關於我們
-我們有台<a href="https://dsc.im/cgl">伺服器</a>，提供你談天說地！
+我們有台<a href="https://dsc.im/cowgl">伺服器</a>，提供你談天說地！
 
 <b>依舊沒被滿足？</b>
 
@@ -29,17 +29,17 @@
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
-<img src="https://github.com/OL99-ols.png" align="right" width="120"/>
+<img src="https://github.com/JustappleJust.png" align="right" width="120"/>
 
-### [OL99](https://github.com/OL99-ols)
+### [JustApp;e](https://github.com/JustappleJust)
 
 - Minecraft 建設
 - 牛牛開發者
 - Javascript
 
-**OL99** 是第二位牛牛團隊的成員，善於遊玩 Minecraft。
+**JustApple** 是第二位牛牛團隊的成員，善於遊玩 Minecraft。
 
-![OL99-ols's GitHub stats](https://github-readme-stats.vercel.app/api?username=OL99-ols&show_icons=true&custom_title=OL-Star&bg_color=181818&text_color=ffffff&hide_border=true)
+![JustappleJust's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustappleJust&show_icons=true&custom_title=OL-Star&bg_color=181818&text_color=ffffff&hide_border=true)
 
 <sub><b>主要語言： 繁體中文、英文</b></sub>
 
@@ -72,4 +72,4 @@
 
 ![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&theme=radical&title=Maoyue&hide_border=true)
 
-<sub><b>主要語言： 繁體中文</b></sub>
+<sub><b>主要語言： 繁體中文、英文</b></sub>
