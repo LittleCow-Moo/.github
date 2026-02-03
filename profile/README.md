@@ -4,7 +4,7 @@
 哞～我是牛牛！我最喜歡吃 JavaScript！
 
 ## 關於我們
-我們有台<a href="https://dsc.im/cowgl">伺服器</a>，提供你談天說地！
+我們有台<a href="https://dsc.gg/cowgl">伺服器</a>，提供你談天說地！
 
 <b>依舊沒被滿足？</b>
 
@@ -23,7 +23,7 @@
 ### [CharlieMoomoo](https://github.com/charlie-moomoo)
 
 **CharlieMoomoo**是牛牛的主要開發人員，也是牛牛的草原之擁有者。
-> 廣告：趕快去玩cowgl.xyz
+> 廣告：趕快去玩cowgl.tech
 
 ![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlie-moomoo&show_icons=true&title=Charlie&bg_color=181818&text_color=ffffff&hide_border=true&icon_color=FCE38A&title_color=FCE38A)
 
